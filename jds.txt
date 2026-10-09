@@ -1,0 +1,1439 @@
+=== JD ===
+JD 1: Company - Google Title : AI Strategist About the job Minimum qualifications:
+
+ • 
+Bachelor's degree or equivalent practical experience.
+ • 
+8 years of experience in program management, strategy, or business operations.
+ • 
+Experience leading change management initiatives and managing executive stakeholders.
+
+Preferred qualifications:
+
+ • 
+Experience in global operations with organizational structures and workflows.
+ • 
+Experience with no-code/low-code AI tools and a willingness to learn.
+ • 
+Experience in contributing to the development and deployment of technology solutions (including AI/ML), demonstrating the ability to identify opportunities and collaborate with technical teams.
+ • 
+Knowledge of global HR/People Operations processes or service operations transformation.
+ • 
+Ability to drive initiatives requiring change management and stakeholder alignment, while also connecting ideas, identifying synergies, and fostering across teams.
+ • 
+Passion for structuring information to facilitate decision-making and align stakeholders.
+
+About The Job
+AI Garage is a new initiative within People Operations (POps) and Corp Engineering, established with the goal of leveraging AI to transform Google’s HR products and operations. The team sits at the intersection of Business, Product, and Engineering to ideate, design, and launch industry defining agentic systems and capabilities.
+In this role, you will be a part of a cross-functional team of AI specialists who work with business teams to design impactful, industry defining AI solutions by re-imagining existing workflows, and engaging closely with engineering teams to develop, test, and deploy them.
+Responsibilities
+
+ • 
+Lead the conceptualization, design, build, and launch of AI-driven solutions focused on business value and user experience, ensuring strict adherence to safety, compliance, ethical AI principles, and human-in-the-loop verification.
+ • 
+Partner with business stakeholders and subject matter experts to analyze incumbent processes and redesign them into agentic workflows, acting as an expert on emerging AI capabilities, industry trends, and best practices.
+ • 
+Build and integrate high-quality AI solutions into client workflows using agentic harnesses and frameworks, authoring prompts, evaluation plans and leading human evaluations where required.
+ • 
+Engage with internal and external engineering teams to lead business requirements and drive the delivery of large-scale engineered solutions.
+ • 
+Establish success metrics, measurement frameworks, and ROI models, drive change management for scaled adoption, and present strategic direction and updates to senior POps and Engineering leadership.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+
+=== JD ===
+JD 2 Job Title: AI Agent Workflow Architect Company: AI AGent Workflow Architect About the job Key Responsibilities:
+
+ • 
+Design prompt templates for LLMs across classification, Q&A, generation, and reasoning tasks
+ • 
+Develop modular agent workflows with decision branches and fallback logic
+ • 
+Conduct prompt evaluation experiments for accuracy, reliability, and UX
+ • 
+Work closely with domain SMEs to map business processes into agent logic
+ • 
+Monitor and iterate based on user interaction and model performance
+
+Required Skills:
+
+ • 
+Strong grasp of NLP and generative AI principles
+ • 
+Familiarity with prompt engineering tools and frameworks (e.g., PromptLayer, LangChain)
+ • 
+Experience working with OpenAI, Claude, or open-source LLMs
+ • 
+Attention to language detail, edge cases, and explainability
+ • 
+Understanding of process flows in industries like insurance, lending, or compliance
+
+=== JD ===
+JD 3 Company: Barclays JOb Title: AI-Product Owner About the job Additional Job Description
+Join us as an Engineering Manager. At Barclays, we don’t just adapt to the future, we create it. As an Engineering Manager you will be an innovative Generative AI Engineer to drive adoption of Large Language Models (LLMs) and agentic flows, focusing on process efficiencies, automation, simplification and risk reduction across enterprise business solutions.
+To be a successful Engineering Manager, you should have experience with:
+
+ • 
+Own product vision, roadmap, backlog, and value delivery.
+ • 
+Identify opportunities to leverage AI, automation, and data to improve customer and business outcomes.
+ • 
+Translate business challenges into AI-enabled product requirements.
+ • 
+Work closely with stakeholders, engineers, designers, and data scientists to deliver solutions.
+ • 
+Create user stories, acceptance criteria, and prioritisation frameworks.
+ • 
+Prototype and experiment using AI tools, agents, copilots, and automation platforms.
+ • 
+Measure product performance, adoption, and business impact.
+ • 
+Ensure solutions align with governance, security, and Responsible AI principles.
+ • 
+Proven experience as a Product Owner, Product Manager, or Digital Product Lead.
+ • 
+Strong understanding of Generative AI, LLMs, AI Agents, RAG, and workflow automation.
+ • 
+Hands-on experience using AI tools such as ChatGPT, Copilot, Claude, Azure AI, or similar platforms.
+ • 
+Strong commercial mindset with a focus on customer value and business outcomes.
+ • 
+Excellent stakeholder management and communication skills.
+ • 
+Comfortable working in Agile environments and driving rapid experimentation.
+
+Additional Relevant Skills Given Below Are Highly Valued
+
+ • 
+Business-first thinker with an AI-native mindset.
+ • 
+Curious, hands-on, and passionate about emerging technologies.
+ • 
+Able to bridge strategy, technology, and execution.
+ • 
+Outcome-focused, pragmatic, and driven by measurable value.
+
+You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job-specific technical skills.
+This role is based in Bangalore.
+Purpose of the role
+The purpose of a Product Owner is to maximize the value of the product by defining a clear product vision (are they setting the vision or would this align to ), managing authoring, refining and prioritizing the Product Backlog balancing trade-offs across desirability, viability and feasibility – making sure the right thing is being ‘built’, and prioritising work based on business goals. They act as the primary liaison between stakeholders and delivery teams, ensuring the product meets user/customer needs and delivers optimal value. Product Owners are responsible for developing a roadmap and driving execution of their product area/sub-journey, applying continuous improvement principles and techniques.
+Accountabilities
+
+ • 
+Ensure Product Alignment with Business Goals: Ensure that the product & its features are aligned with broader objectives, driving value and contributing to the organization’s overall strategy. Utilisation of market research, analysis of customer feedback and monitoring of industry trends to identify new products, features or enhancements. 
+ • 
+Communicate Product Vision to Delivery Teams: Clearly articulate the product vision and goals to the delivery teams, ensuring they understand, align and are inspired to deliver the business value and purpose of each feature or user story.
+ • 
+Create and Refine User Stories: Write clear, concise user stories with detailed acceptance criteria, refining them as needed to ensure the development team has all the necessary information to implement features successfully.
+ • 
+Agile Events: Participate in key Agile events such as sprint planning, daily stand-ups, sprint reviews, and retrospectives to keep the team aligned and focused on delivering the product backlog.
+ • 
+Managing the Product Backlog: Responsible for creating, maintaining, and prioritising the product backlog, ensuring the highest value features are delivered first, based on business needs, customer requirements and organisational impacts, balancing risk migration and future proofing against the product strategy.
+ • 
+Act as the Voice of the Customer: Continuously gather feedback from customers and end-users to understand their pain points and ensure that the product meets their needs and improves their overall experience.
+ • 
+Acceptance Criteria Definition & Management: Review and accept or reject work completed by the development team during sprints, ensuring that all delivered features meet the agreed-upon acceptance criteria and deliver business value.
+ • 
+Collaborate with Stakeholders: Work closely with stakeholders (e.g., customers, business leaders, and marketing teams) to gather requirements, define product goals, and ensure that the product vision aligns with business objectives.
+ • 
+Monitor Product Performance and Iterate: Regularly assess product performance using KPIs and customer feedback, adjusting the product backlog and roadmap to improve functionality and meet evolving customer needs. Manage on-going readiness and 'run' activities of live products including monitoring, governance and approvals.
+ • 
+Risk and Control: Managing risk, including identification of potential risks, development of strategies to resolve or mitigate and escalate as necessary those risks, and alignment between the product management and control functions.
+
+Vice President Expectations
+
+ • 
+To contribute or set strategy, drive requirements and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures..
+ • 
+If managing a team, they define jobs and responsibilities, planning for the department’s future needs and operations, counselling employees on performance and contributing to employee pay decisions/changes. They may also lead a number of specialists to influence the operations of a department, in alignment with strategic as well as tactical priorities, while balancing short and long term goals and ensuring that budgets and schedules meet corporate requirements..
+ • 
+If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others..
+ • 
+OR for an individual contributor, they will be a subject matter expert within own discipline and will guide technical direction. They will lead collaborative, multi-year assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will train, guide and coach less experienced specialists and provide information affecting long term profits, organisational risks and strategic decisions..
+ • 
+Advise key stakeholders, including functional leadership teams and senior management on functional and cross functional areas of impact and alignment.
+ • 
+Manage and mitigate risks through assessment, in support of the control and governance agenda.
+ • 
+Demonstrate leadership and accountability for managing risk and strengthening controls in relation to the work your team does.
+ • 
+Demonstrate comprehensive understanding of the organisation functions to contribute to achieving the goals of the business.
+ • 
+Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategies.
+ • 
+Create solutions based on sophisticated analytical thought comparing and selecting complex alternatives. In-depth analysis with interpretative thinking will be required to define problems and develop innovative solutions.
+ • 
+Adopt and include the outcomes of extensive research in problem solving processes.
+ • 
+Seek out, build and maintain trusting relationships and partnerships with internal and external stakeholders in order to accomplish key business objectives, using influencing and negotiating skills to achieve outcomes.
+
+All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.
+
+=== JD ===
+JD 4 Job Title: Lead Product Management – Technical – AI Transformation Company: Mastercard About the job Our Purpose
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+Title And Summary
+Lead Product Management – Technical – AI Transformation
+Overview
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+The Services Business represents over a third of Mastercard revenues and is a key differentiator for Mastercard. Services use our unique and proprietary data, technology, insights and expertise to deliver solutions that meet the needs of our customers. Services is critical for the sustained, long-term growth of Mastercard.
+Within the Services organization, this role sits within the Business & Markets Insights (BMI) organization. The Business & Market Insights vertical is focused on creating products and solutions that create value for customers through Analytics, Insights, Business Experimentation, and Payment Consulting & Innovation.
+Under BMI, Payment Performance Intelligence Program's Global Product Management team is seeking an accomplished technology-focused Product Manager to support the evolution of its products to include AI intelligence. This person will be part of a team of product managers that oversee key activities including execution of the AI product strategy, management of the roadmap, shaping the product platform architecture and the creation of technical requirements.
+This individual will partner closely with other members of the Global Product Management team including data scientists to support development of Gen AI chatbot use cases & agentic services and ensuring product priorities are well-aligned with strategic objectives. This individual will also be the key collaborator with the Platform team to shape the long-term vision for the product and ensure efficient development execution.
+Role
+
+ • 
+Support the definition and execution of the AI product roadmap for Payment Performance Intelligence, contributing to strategy and investment discussions led by senior product leadership.
+ • 
+Own delivery of assigned AI product areas end to end, from discovery and requirements through development, launch, and post-launch iteration.
+ • 
+Help identify and validate high-value use cases for GenAI, chatbots, agentic services, predictive insights, and self-service analytics.
+ • 
+Translate customer needs, market inputs, and business objectives into clear user stories, technical requirements, and acceptance criteria.
+ • 
+Work day to day with Data Science, Engineering, and Platform teams to groom the backlog, unblock dependencies, and maintain sprint velocity.
+ • 
+Coordinate with Commercial, Risk, Legal, Security, and Compliance partners to ensure products meet regulatory and responsible AI requirements.
+ • 
+Recommend prioritization based on customer value, commercial impact, technical feasibility, and effort, escalating trade-offs where needed.
+ • 
+Define and track success metrics for owned features, reporting progress, risks, and adoption to stakeholders.
+ • 
+Prepare and present roadmap updates, demos, and release communications to internal stakeholders and customer-facing teams.
+ • 
+Mentor junior product managers and associates, and contribute to improving agile practices and product documentation standards across the team.
+
+All About You
+
+ • 
+Solid experience in agile product management for analytics, data insights, AI-enabled, or financial services products.
+ • 
+Working knowledge of GenAI use cases, predictive insights, self-service analytics, and the data foundations required to support them.
+ • 
+Demonstrated ability to convert customer problems into requirements, user stories, and measurable product outcomes.
+ • 
+Experience collaborating across Product, Engineering, Data Science, Commercial, Risk, Legal, Security, and Compliance teams.
+ • 
+Strong written and verbal communication skills, with the ability to explain technical concepts to non-technical stakeholders.
+ • 
+Comfortable operating with a degree of ambiguity, managing competing priorities, and driving execution in a fast-paced environment.
+ • 
+Experience mentoring or guiding peers and junior team members is preferred; formal people management experience is not required.
+ • 
+Highly organized and analytical, with strong attention to detail in backlog management and delivery tracking.
+ • 
+Bachelor's degree in business, technology, or equivalent experience required; technical background, payments experience, or product certification preferred.
+
+Corporate Security Responsibility
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+ • 
+Abide by Mastercard’s security policies and practices;
+ • 
+Ensure the confidentiality and integrity of the information being accessed;
+ • 
+Report any suspected information security violation or breach, and
+ • 
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+
+=== JD ===
+JD 5: Company: Standard Charted India Job Profile: Data & AI Ops Lead About the job Job Summary
+The Data & AI Lead is responsible for identifying, shaping, and delivering AI-enabled products that improve risk and compliance processes and deliver measurable business value.
+The role sits within the AI Centre of Excellence (CoE) and acts as the bridge between business, data, AI engineering, and governance teams, ensuring AI solutions are aligned to strategic priorities, deliver tangible outcomes, and are successfully adopted by business users.
+In addition to product ownership, the role drives process excellence and value realisation, ensuring AI initiatives generate measurable productivity, risk reduction, and operational efficiency improvements.
+Key Responsibilities
+Strategy
+
+ • 
+Define and maintain the Data & AI capability strategy and product roadmap for Risk & Compliance, ensuring AI initiatives are aligned to business priorities, enterprise AI direction and measurable value outcomes.
+ • 
+Own the AI use case portfolio across assisted, enabled, generative and agentic automation, ensuring a coherent path from ideation to prioritisation, design, delivery, adoption, scale and retirement.
+ • 
+Partner closely with respective Product Owners, Business Owners and Process Owners to review the full product and process journey, identifying where AI, data, automation and analytics can materially improve productivity, risk outcomes, user experience and decision quality.
+ • 
+Lead structured opportunity discovery across products and processes to identify areas where process engineering through AI and data tools can deliver substantial qualitative and quantitative benefits, including cycle-time reduction, effort elimination, quality improvement, control uplift and improved decision support.
+ • 
+Continuously challenge existing ways of working and push the boundaries of imagination with business stakeholders by bringing practical ideas on GenAI, agentic AI, workflow automation, data intelligence and reusable AI capability patterns.
+ • 
+Support strategic buy, build, reuse or partner decisions for AI capabilities, ensuring investment is directed towards scalable, reusable and value-accretive solutions.
+ • 
+Maintain a centralised AI backlog and product pipeline that balances business value, feasibility, risk, complexity, user adoption, delivery capacity and strategic relevance.
+
+Business
+
+ • 
+Act as the primary business-facing lead for AI capability development, building trusted relationships with Product Owners, Business Owners, SMEs and senior stakeholders to identify, shape and deliver AI-enabled business transformation.
+ • 
+Work with product and business owners to assess the entire product journey, including upstream inputs, workflow steps, decision points, controls, handoffs, pain points, downstream outputs and user experience.
+ • 
+Translate business challenges into clear, outcome-led AI opportunities, ensuring each use case has a defined problem statement, target user group, expected benefit, success measure and adoption pathway.
+ • 
+Lead process and value analysis to determine where AI and data tools can generate measurable business impact, including productivity gains, cost avoidance, improved quality, better risk detection, reduced manual intervention and enhanced decision-making.
+ • 
+Quantify expected benefits before implementation and track realised benefits after deployment, covering both quantitative measures such as time saved, volume processed, cost avoided and cycle-time reduction, and qualitative outcomes such as improved user confidence, better insights, stronger controls and improved service experience.
+ • 
+Enable product and business owners to reimagine how work can be performed using AI, including GenAI assistants, copilots, agentic workflows, intelligent triage, automated summarisation, insight generation and decision-support tools.
+ • 
+Ensure AI products are business-relevant, user-centred, measurable, scalable and designed to deliver sustained adoption rather than isolated experimentation.
+
+Processes
+
+ • 
+Establish and operate a structured AI product lifecycle covering intake, opportunity discovery, journey review, prioritisation, requirements definition, design, development oversight, deployment readiness, adoption, value tracking and continuous improvement.
+ • 
+Facilitate end-to-end product journey and process engineering reviews with Product Owners and Business Owners to identify friction, duplication, manual effort, control gaps, rework, delays and decision bottlenecks that can be improved through AI and data-enabled solutions.
+ • 
+Convert business and process opportunities into well-defined product artefacts, including product requirement documents, user journeys, process maps, feature definitions, prioritisation criteria, value hypotheses and delivery roadmaps.
+ • 
+Work closely with AI engineering, data and analytics teams, GenAI prompt specialists, governance teams and business SMEs to ensure AI solutions are designed and delivered against clearly defined business outcomes.
+ • 
+Oversee use case delivery from ideation through deployment, ensuring delivery progress, dependencies, risks, milestones, design decisions, readiness activities and business adoption plans are actively managed.
+ • 
+Define and maintain value measurement approaches, including baseline metrics, benefit assumptions, productivity scorecards, adoption dashboards, value realisation tracking and portfolio performance reporting.
+ • 
+Use feedback from users, adoption metrics, operational outcomes, process performance and governance inputs to continuously improve AI products, backlog priorities and product journey design.
+
+People & Talent
+
+ • 
+Build and own strong working relationships with Product Owners, Business Owners, Process Owners, Technology, Data, Risk, Compliance and AI Governance teams to create a shared agenda for AI-enabled transformation.
+ • 
+Act as a trusted advisor to business teams by helping them understand what is possible with AI, GenAI, agentic AI, data products and automation, while translating ambition into practical, deliverable and governed use cases.
+ • 
+Facilitate ideation sessions, product clinics, journey walkthroughs and design workshops that encourage stakeholders to rethink how processes, controls and decisions could be redesigned using AI and data.
+ • 
+Build confidence and adoption across business teams by partnering with learning, engagement and change teams to deliver training, demos, playbooks, engagement plans and user enablement activities.
+ • 
+Promote a product and value-led mindset across AI delivery teams, ensuring teams remain focused on user outcomes, measurable impact, adoption, continuous improvement and responsible innovation.
+ • 
+Encourage a culture of curiosity, experimentation and disciplined execution, where teams are empowered to challenge legacy processes and explore ambitious but controlled uses of AI.
+ • 
+Support the development of AI fluency across business stakeholders by sharing reusable examples, emerging use cases, lessons learned and practical patterns for applying AI to real business problems.
+
+Risk Management
+
+ • 
+Ensure AI use cases are shaped and delivered in line with enterprise AI governance, responsible AI, data, risk, compliance, security and regulatory expectations.
+ • 
+Work with Product Owners and Business Owners to identify risks across the full product journey, including process risks, control gaps, data risks, adoption risks, operational risks, model risks and inappropriate automation risks.
+ • 
+Partner with AI Governance, Risk, Compliance and assurance teams to ensure appropriate validation, explainability, bias assessment, control requirements, monitoring inputs and approval evidence are built into product delivery.
+ • 
+Ensure AI-enabled process engineering does not compromise control effectiveness, accountability, data integrity, customer outcomes, regulatory expectations or operational resilience.
+ • 
+Identify and manage delivery risks, dependency risks, value realisation risks, user adoption risks and operational readiness risks across the AI portfolio, escalating material issues where required.
+ • 
+Ensure AI products are implemented with appropriate human oversight, usage boundaries, business readiness, control documentation, monitoring inputs and feedback mechanisms to support sustainable and controlled use.
+ • 
+Use qualitative and quantitative performance insights to identify where deployed AI products may require refinement, additional controls, retraining, user education, redesign or retirement.
+
+Governance
+
+ • 
+Maintain transparent governance over the AI product portfolio, including roadmap status, prioritisation decisions, product journey reviews, delivery progress, adoption performance, value realisation and key risks.
+ • 
+Ensure each AI use case has clear ownership across Product Owner, Business Owner, delivery team and governance stakeholders, with defined accountability for business outcomes, adoption, controls and value tracking.
+ • 
+Provide regular reporting to senior stakeholders and governance forums through AI portfolio dashboards, value dashboards, ROI tracking reports, adoption metrics and portfolio performance updates.
+ • 
+Support governance forums with evidence-based recommendations on prioritisation, investment, scaling, remediation, redesign or retirement of AI products.
+ • 
+Maintain disciplined portfolio controls so AI initiatives are traceable, measurable, outcome-led and aligned to business priorities, responsible AI expectations and enterprise governance standards.
+ • 
+Ensure product journey reviews, benefit cases, design decisions, user impacts, adoption evidence and value realisation outcomes are appropriately documented and available for management review.
+ • 
+Create a continuous improvement governance loop where feedback from Product Owners, Business Owners, users, delivery teams and governance stakeholders is used to refresh the roadmap, backlog, adoption approach and value strategy.
+
+Key Deliverables
+
+ • 
+AI product roadmap & portfolio backlog (including generative & agentic AI initiatives) aligned to Risk & Compliance strategic priorities.
+ • 
+End-to-end process re-engineering blueprint co-created with product/business owners (leveraging generative & agentic AI) to transform key Risk & Compliance processes.
+ • 
+Central AI use case intake & prioritization framework ensuring value-driven selection and disciplined stage-gate development of AI solutions.
+ • 
+AI adoption strategy & integration plan (with clear adoption KPIs) to drive and measure widespread usage of new AI and data tools across Risk & Compliance teams.
+ • 
+Business enablement playbook & training modules to build R&C team proficiency and trust in advanced AI tools (e.g., generative & agentic AI solutions).
+ • 
+AI value measurement framework & dashboards tracking qualitative and quantitative benefits (productivity, risk reduction, ROI) delivered by deployed AI initiatives.
+ • 
+AI governance compliance documentation and requisite risk & compliance approvals for each AI product, evidencing Responsible AI and regulatory adherence.
+ • 
+Executive portfolio performance reports for R&C leadership highlighting AI-driven value creation, adoption progress, and future advanced AI opportunities.
+
+Regulatory & Business Conduct
+
+ • 
+Display exemplary conduct and live by the Group’s Values and Code of Conduct.
+ • 
+Take personal responsibility for embedding the highest standards of ethics, including regulatory and business conduct, across Standard Chartered Bank. This includes understanding and ensuring compliance with, in letter and spirit, all applicable laws, regulations, guidelines and the Group Code of Conduct.
+ • 
+Effectively and collaboratively identify, escalate, mitigate and resolve risk, conduct and compliance matters.
+
+Key Stake Holders
+
+ • 
+AI Engineering Solution development
+ • 
+Data & Analytics Data products and datasets
+ • 
+GenAI Specialists Prompt design and context engineering
+ • 
+AI Assurance Model validation and governance
+ • 
+AI Operations Monitoring and lifecycle management
+ • 
+Business Units AI adoption and value realisation
+
+Skills And Experience
+
+ • 
+Experience in product management, data analytics, or digital transformation
+ • 
+Strong knowledge of risk, compliance, or financial services operations
+ • 
+Ability to operate at the intersection of business, data, and technology
+ • 
+Strong stakeholder engagement and strategic thinking capabilities
+
+About Standard Chartered
+We're an international bank, nimble enough to act, big enough for impact. For more than 170 years, we've worked to make a positive difference for our clients, communities, and each other. We question the status quo, love a challenge and enjoy finding new opportunities to grow and do better than before. If you're looking for a career with purpose and you want to work for a bank making a difference, we want to hear from you. You can count on us to celebrate your unique talents and we can't wait to see the talents you can bring us.
+Our purpose, to drive commerce and prosperity through our unique diversity, together with our brand promise, to be here for good are achieved by how we each live our valued behaviours. When you work with us, you'll see how we value difference and advocate inclusion.
+Together We
+
+ • 
+Do the right thing and are assertive, challenge one another, and live with integrity, while putting the client at the heart of what we do
+ • 
+Never settle, continuously striving to improve and innovate, keeping things simple and learning from doing well, and not so well
+ • 
+Are better together, we can be ourselves, be inclusive, see more good in others, and work collectively to build for the long term
+
+What We Offer
+In line with our Fair Pay Charter,we offer a competitive salary and benefits to support your mental, physical, financial and social wellbeing.
+
+ • 
+Core bank funding for retirement savings, medical and life insurance, with flexible and voluntary benefits available in some locations.
+ • 
+Time-off including annual leave, parental/maternity (20 weeks), sabbatical (12 months maximum) and volunteering leave (3 days), along with minimum global standards for annual and public holiday, which is combined to 30 days minimum.
+ • 
+Flexible working options based around home and office locations, with flexible working patterns.
+ • 
+Proactive wellbeing support through Unmind, a market-leading digital wellbeing platform, development courses for resilience and other human skills, global Employee Assistance Programme, sick leave, mental health first-aiders and all sorts of self-help toolkits
+ • 
+A continuous learning culture to support your growth, with opportunities to reskill and upskill and access to physical, virtual and digital learning.
+ • 
+Being part of an inclusive and values driven organisation, one that embraces and celebrates our unique diversity, across our teams, business functions and geographies - everyone feels respected and can realise their full potential.
+
+=== JD ===
+JD 6 JOb Title: Product Manager, Agentic, Customer Engagement About the job Minimum qualifications:
+
+ • 
+Bachelor's degree or equivalent practical experience.
+ • 
+3 years of experience in product management or a related technical role.
+ • 
+1 year of experience taking technical products from conception to launch (e.g., ideation to execution, end-to-end, 0 to 1, etc).
+ • 
+Experience building aentic technologies.
+
+Preferred qualifications:
+
+ • 
+Master's degree in a technology or a business related field.
+ • 
+2 years of experience in a business function or role (e.g., strategic marketing, business operations, consulting).
+ • 
+Experience working on products in the Enterprise Business Intelligence (BI), data analytics, or internal tooling space.
+ • 
+Familiarity or foundational experience with Generative AI, Large Language Models (LLMs), and AI-motivated chat or automated tools.
+ • 
+Proven capability to execute and launch features successfully in a highly cross-functional environment (e.g., working with Sellers, Analysts, and Operations teams).
+
+About the jobAt Google, we put our users first. The world is always changing, so we need Product Managers who are continuously adapting and excited to work on products that affect millions of people every day.
+In this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You can break down complex problems into steps that drive product development.
+One of the many reasons Google consistently brings innovative, world-changing products to market is because of the collaborative work we do in Product Management. Our team works closely with creative engineers, designers, marketers, etc. to help design and develop technologies that improve access to the world's information. We're responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users.
+Customer Engagement (CE) is a team within Ads focused on providing tools and products to enable Google to intelligently engage customers and help them succeed at scale. Our solutions cover marketing, business, and support for the Ads business and also customer support for Google’s consumer ecosystem with many of those products serving more than 1B monthly users like YouTube, Play, Hardware, Photos, Maps, Search, and Gmail to name a few. The team drives the design and development of agentic Artificial Intelligence (AI) systems that transform how support practitioners engage with customers through automated, intelligent conversations. Our tools manage contextualized diagnosis, multi-step troubleshooting, resolution, and communication with human agents in the loop.
+Responsibilities
+
+ • 
+Define and advocate the product goal, strategy, and roadmap for features and quality of the Cases AI Agentic system.
+ • 
+Prioritize the product backlog, make trade-off decisions, and manage the product lifecycle from concept to launch and iteration. Translate user needs and business requirements into detailed Product Requirements Documents (PRDs), user stories, and specifications.
+ • 
+Collaborate deeply with Engineering, User Experience (UX) Designers, UX Researchers, and Technical Program Managers to ideate, design, and deliver innovative solutions.
+ • 
+Engage with key stakeholders and users including Sellers, Analysts, and Global Business Organization (GBO) partners to understand their needs, pain points, and opportunities.
+ • 
+Communicate product plans, progress, and results to stakeholders, leadership, and cross-functional partners across CE and its ecosystem.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+
+=== JD ===
+JD 7: Company - Deloitte Job Title: Specialist- Brand, Marketing & Communication - Brand Strategy- Hyderabad/Bengaluru (Integration of AI to differentiate) About the job Summary
+Position Summary
+Specialist - Brand Strategy, Specialist
+Deloitte’s Brand, Marketing & Communications team combines the power of Deloitte’s brand with inspired marketing minds to produce envy-inducing business results. From events to social media to digital assets and execution, our blend of insights from expert marketers and world-class creative talent produces attention-grabbing campaigns anchored in data-infused strategies. When stakeholders need next-level solutions that support their business priorities, Brand, Marketing & Communications is the partner that can transform big ideas into big impact.
+Work you’ll do
+As a Specialist, Brand Strategy, you will:
+
+ • 
+Serve as a trusted advisor to go-to-market and business marketers representing strategy with business pod leadership and building strong relationships with key stakeholders.
+ • 
+Help to build insight-led marketing strategies that differentiate Deloitte’s businesses and offerings, leveraging market intelligence, audience research, and competitive analysis.
+ • 
+Contribute to the development and implementation of integrated, full-funnel campaigns and content strategies to drive growth, market share, and measurable business outcomes.
+ • 
+Contribute to the building of audience journeys and content strategies – including demand gen recommendations
+ • 
+Conduct content audits, map content to audience needs, and identify gaps to inform content planning and development.
+ • 
+Collaborate with creative, paid media, and data teams to translate brand and content strategies into compelling omnichannel campaigns and experiences.
+ • 
+Champion an audience-first, “test and learn” culture, using data and insights to continuously optimize strategies.
+ • 
+Stay current on industry trends, content formats, and emerging technologies to ensure Deloitte’s brand and content strategies remain innovative and effective
+
+The Team
+Our Brand Strategy team, part of Brand, Marketing & Communications, comprises thoughtful, creative, and collaborative strategists supporting Deloitte’s businesses. The team orchestrates omnichannel experiences based on audience-led insights and behaviors, driving effectiveness at every stage of the buyer journey. The strategists design and support end-to-end campaign planning and execution, helping business-aligned marketers execute more influential campaigns and multiply Deloitte’s collective marketing impact.
+Work Location: Hyderabad/Bengaluru
+Timings: 2 PM to 11 PM or 11 AM to 4 PM and 8 PM to 11 PM
+Qualifications
+Required
+
+ • 
+Executive presence with the ability to present ideas, make recommendations, and advise marketers on strategy.
+ • 
+Experience developing strategic positioning, content plans, and integrated customer journey campaigns utilizing data.
+ • 
+Knowledge of owned and paid digital channels.
+ • 
+Ability to work in a matrixed environment and build trusted relationships across diverse stakeholder groups.
+ • 
+Ability to communicate priorities, manage multiple projects with competing deadlines, and adapt to changing requirements.
+
+Preferred
+
+ • 
+3+ years of relevant experience in in-house marketing or advertising agencies.
+ • 
+Experience in brand planning, media planning, or campaign planning.
+ • 
+Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook); familiarity with integrating various technologies to support marketing efforts.
+ • 
+Understanding of Agile methodology
+ • 
+Ability to travel up to 10%.
+ • 
+Strong English oral and written communication skills
+
+#BM&C_G&P
+Our purpose
+Deloitte’s purpose is to make an impact that matters for our people, clients, and communities. At Deloitte, purpose is synonymous with how we work every day. It defines who we are. Our purpose comes through in our work with clients that enables impact and value in their organizations, as well as through our own investments, commitments, and actions across areas that help drive positive outcomes for our communities.
+Our people and culture
+Our inclusive culture empowers our people to be who they are, contribute their unique perspectives, and make a difference individually and collectively. It enables us to leverage different ways of thinking, ideas and perspectives, and bring more creativity and innovation to help solve our clients’ most complex challenges. This makes Deloitte one of the most rewarding places to work.
+Professional development
+At Deloitte, professionals have the opportunity to work with some of the best and discover what works best for them. Here, we prioritize professional growth, offering diverse learning and networking opportunities to help accelerate careers and enhance leadership skills. Our state-of-the-art DU: The Leadership Center in India, located in Hyderabad, represents a tangible symbol of our commitment to the holistic growth and development of our people. Explore DU: The Leadership Center in India .
+Benefits To Help You Thrive
+At Deloitte, we know that great people make a great organization. Our comprehensive rewards program helps us deliver a distinctly Deloitte experience that helps that empowers our professionals to thrive mentally, physically, and financially—and live their purpose. To support our professionals and their loved ones, we offer a broad range of benefits. Eligibility requirements may be based on role, tenure, type of employment and/ or other criteria. Learn more about what working at Deloitte can mean for you.
+Recruiting tips
+From developing a stand out resume to putting your best foot forward in the interview, we want you to feel prepared and confident as you explore opportunities at Deloitte. Check out recruiting tips from Deloitte recruiters.
+
+=== JD ===
+JD 8 Company: Capco Job Title: AI Customer Journey Manager About the job Job Title: AI Customer Journey Manager
+Location : Bangalore, Hyd & Chennai
+About Us
+“Capco, a Wipro company, is a global technology and management consulting firm. Awarded with Consultancy of the year in the British Bank Award and has been ranked Top 100 Best Companies for Women in India 2022 by Avtar & Seramount. With our presence across 32 cities across globe, we support 100+ clients across banking, financial and Energy sectors. We are recognized for our deep transformation execution and delivery.
+WHY JOIN CAPCO?
+You will work on engaging projects with the largest international and local banks, insurance companies, payment service providers and other key players in the industry. The projects that will transform the financial services industry.
+MAKE AN IMPACT
+Innovative thinking, delivery excellence and thought leadership to help our clients transform their business. Together with our clients and industry partners, we deliver disruptive work that is changing energy and financial services.
+#BEYOURSELFATWORK
+Capco has a tolerant, open culture that values diversity, inclusivity, and creativity.
+CAREER ADVANCEMENT
+With no forced hierarchy at Capco, everyone has the opportunity to grow as we grow, taking their career into their own hands.
+DIVERSITY & INCLUSION
+We believe that diversity of people and perspective gives us a competitive advantage.
+MAKE AN IMPACT
+Experience
+Job Description -
+8+ Years
+Role Summary
+We are looking for a senior AI Customer Journey Manager to lead the design, optimization, and transformation of customer journeys using AI-driven capabilities. The individual must be highly capable, customer-focused, and able to independently identify opportunities to improve customer experiences through AI and automation.
+This role combines customer journey expertise, business analysis, and AI innovation to deliver seamless, personalized, and efficient customer interactions.
+Key Responsibilities
+
+ • 
+Analyze and map end-to-end customer journeys across digital and assisted channels.
+ • 
+Identify customer pain points, friction areas, and opportunities for AI-led improvements.
+ • 
+Define future-state AI-enabled customer experiences and journey enhancements.
+ • 
+Partner with Product Owners, UX teams, Data Scientists, and Engineering teams to deliver customer-centric AI solutions.
+ • 
+Develop journey metrics, success measures, and value tracking frameworks.
+ • 
+Drive customer experience transformation initiatives from concept through implementation.
+ • 
+Support business case creation for AI-enabled customer engagement initiatives.
+ • 
+Facilitate stakeholder workshops and customer journey discovery sessions.
+ • 
+Ensure alignment between customer experience strategy and business objectives.
+
+Required Skills
+
+ • 
+8+ years of experience in Customer Journey Management, Customer Experience (CX), Product Management, Business Analysis, or Digital Transformation.
+ • 
+Strong experience in customer journey mapping and service design.
+ • 
+Experience working on AI, automation, conversational AI, or digital customer experience initiatives.
+ • 
+Strong stakeholder engagement and communication skills.
+ • 
+Ability to independently drive workshops and solution discussions.
+ • 
+Strong analytical and problem-solving capabilities.
+ • 
+Experience working in Agile delivery environments.
+
+Preferred Skills
+
+ • 
+Banking, Lending, Cards, Mortgages, or Consumer Banking experience.
+ • 
+Knowledge of AI-powered customer servicing, virtual assistants, personalization, and intelligent automation.
+ • 
+Familiarity with Customer Experience platforms and analytics tools.
+ • 
+Understanding of Generative AI, LLMs, Agentic AI, and AI-driven customer engagement strategies.
+
+=== JD ===
+JD 9 Job Title: Product Marketing Manager Company: Sarvam About the job About Sarvam
+Sarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.
+About The Role
+We’re hiring a Product Marketing Manager to lead go-to-market strategy for our enterprise products. This role is central to how we communicate value to large enterprises adopting AI at scale. You’ll be responsible for crafting positioning that resonates with executive buyers, launching new features and offerings, and enabling our sales team with the tools they need to close complex deals. You’ll work closely with product and sales to bring Sarvam’s capabilities to life through demos, solution briefs, case studies, and tailored narratives for priority verticals such as financial services, public sector, and healthcare.
+We’re looking for someone who understands how enterprise buyers evaluate technology. Someone who can translate capabilities into business outcomes, map our value to real workflows, and support long-cycle sales with credible, clear, and strategic messaging. This is both a builder and operator role, and your work will directly shape how Sarvam grows with India’s largest enterprises.
+What You’ll Do
+
+ • 
+Positioning for Enterprise Segments Own how we position Sarvam’s enterprise offerings across key verticals. Shape narratives that reflect real workflows, procurement behavior, and stakeholder priorities in each industry.
+ • 
+Sales Enablement Equip sales teams with the tools they need to engage effectively. Create high-quality decks, one-pagers, solution briefs, competitive overviews, and account-specific messaging that help accelerate deals.
+ • 
+Customer Proof Points Lead the development of case studies, ROI benchmarks, and customer stories that demonstrate business value and build credibility with prospects.
+ • 
+Demo and Asset Ownership Partner with product and engineering to deliver demos that reflect real-world use cases. Ensure each demo and asset clearly communicates value, differentiation, and relevance to buyer needs.
+ • 
+Field and Market Insights
+
+Stay close to customer conversations and sales cycles. Gather insights from the field and market landscape to refine positioning and address common objections.
+What We're Looking For
+
+ • 
+4 to 6 years of experience in product marketing or solution marketing, ideally in enterprise SaaS, infrastructure, or AI
+ • 
+A proven track record of enabling enterprise sales teams with sharp messaging and high-quality content that moves deals forward
+ • 
+Familiarity with enterprise buying cycles, procurement patterns, and multi-stakeholder decision-making
+ • 
+Strong writing, storytelling, and communication skills grounded in real customer use cases and measurable impact
+
+Why Sarvam?
+Sarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.
+
+ • 
+Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar
+ • 
+High ownership and high impact, from day one
+ • 
+Everything we do is AI-first, from the way we build and ship to the way we think about problems
+ • 
+You can work on problems that could change how an entire country learns, works, and communicates
+
+If you want to work on problems at the frontier of AI in India, Sarvam is the place to be.
+
+=== JD ===
+JD 10: Company: Boundaryless Automation Job Title: Agentic AI Analyst About the job Role Description
+
+ • 
+The Agentic Analyst will support delivery of enterprise agentic automation solutions, working across business, data, and technology stakeholders.
+ • 
+Translate business objectives, policies, and operating constraints into clear, implementable requirements for Python-based orchestration and agent workflows.
+ • 
+Lead discovery workshops to identify use cases, triggers, decision points, exceptions, and human-in-the-loop approvals required for safe execution.
+ • 
+Define workflow specifications: routing logic, decision tables, data contracts, prompts/structured outputs, guardrails, and acceptance criteria.
+ • 
+Work closely with Agentic Developers to ensure intent is preserved in implementation and outcomes are explainable, secure, and audit-ready.
+ • 
+Drive UAT planning and execution; validate results, manage defect triage, and produce audit-ready documentation.
+ • 
+Participate across discovery → build → rollout → continuous improvement to improve agent performance and reduce operational risk.
+
+=== JD ===
+JD 11: Company: JPMOrganChase Job Title: Senior Associate - Forward Deployed AI Engineer About the job Job Description
+Job Summary:
+As a Senior Associate - Forward Deployed AI Engineer, you will translate regulatory and operational needs into practical, technology-enabled solutions. You will work as an intersection of business, data, technology, and AI, and your role combines stakeholder engagement, business analysis, solution design, rapid prototyping, and hands-on delivery. You will independently deliver defined use cases, work closely with business and technology partners, and apply the appropriate combination of process improvements, data, analytics, automation, and AI to improve outcomes across Compliance and Risk functions.
+Job Responsibilities
+
+ • 
+Partner with Compliance, Risk, and Operations stakeholders to understand business processes, pain points, regulatory requirements, and desired outcomes.
+ • 
+Conduct business and data analysis, document requirements, define use cases, and map current- and future-state processes.
+ • 
+Assess solution options and recommend an appropriate combination of process improvements, data, analytics, automation, and AI capabilities.
+ • 
+Design, prototype, test, and validate technology-enabled solutions, including copilots, agents, workflow automation, knowledge assistants, and decision-support tools.
+ • 
+Translate business requirements into solution designs, user stories, acceptance criteria, and implementation plans.
+ • 
+Work with Technology, Data, Architecture, and Control partners to integrate and implement solutions within enterprise standards.
+ • 
+Support demonstrations, user testing, training, feedback collection, and adoption activities.
+ • 
+Contribute to defining success metrics and evaluating solution performance against business objectives.
+ • 
+Ensure deliverables align with applicable regulatory, governance, privacy, and risk management requirements.
+
+Required Qualifications, Capabilities And Skills
+
+ • 
+Bachelor's or Master's degree in Computer Science, Engineering, Information Systems, Business Analytics, Data Science, or a related field.
+ • 
+5+ years of experience delivering business, technology, analytics, automation, or AI-enabled solutions.
+ • 
+Strong business analysis skills, including stakeholder interviews, requirements elicitation, use-case definition, process mapping, and solution design.
+ • 
+Strong data analysis, process improvement, business process reengineering, and problem-solving capabilities.
+ • 
+Experience independently designing, prototyping, validating, and delivering solutions in partnership with end users.
+ • 
+Experience with Large Language Models, Generative AI, prompt engineering, Retrieval-Augmented Generation, AI agents, and enterprise AI platforms.
+ • 
+Familiarity with Knowledge Graph concepts and graph-based approaches to connecting information and business context.
+ • 
+Strong stakeholder management, consulting, communication, and presentation skills across technical and non-technical audiences.
+ • 
+Ability to manage assigned workstreams from requirements through implementation while coordinating across business and technology partners.
+
+Preferred Qualifications, Capabilities And Skills
+
+ • 
+Experience within Compliance, Risk Management, Financial Crime, Regulatory Reporting, Surveillance, Controls, Audit, or related domains.
+ • 
+Experience delivering AI copilots, knowledge assistants, workflow automation, or decision-support solutions.
+ • 
+Experience working in large, highly regulated organizations.
+ • 
+Familiarity with Agile delivery methodologies and product-oriented operating models.
+ • 
+Experience supporting organizational change and adoption of new technologies.
+
+About Us
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+About The Team
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we're setting our businesses, clients, customers and employees up for success.
+
+=== JD ===
+JD 12: Key Responsibilities Content Strategy & Management
+
+ • 
+Plan and manage content across websites, blogs, LinkedIn newsletters, email, social media, paid campaigns, SEO and external platforms.
+ • 
+Build and manage an integrated content calendar aligned with business and campaign priorities.
+ • 
+Manage India blog and website content, coordinating with technical, product and marketing stakeholders for content development, reviews and approvals.
+ • 
+Manage the LinkedIn newsletter, including editorial planning, publishing and performance tracking.
+ • 
+Localize, update and repurpose existing content for India audiences and multiple channels.
+
+AI & Content Optimization
+
+ • 
+Use AI and marketing technologies to improve content ideation, creation, repurposing, SEO, optimization and analysis.
+ • 
+Identify opportunities to automate and streamline content workflows while ensuring appropriate quality and technical review.
+
+Content & Asset Management
+
+ • 
+Build and maintain a centralized, searchable library of images, videos, brochures, application notes, creatives and other marketing assets.
+ • 
+Establish effective tagging, naming, version control and asset reuse processes.
+
+Website & Intranet
+
+ • 
+Coordinate updates to relevant website pages, landing pages and digital content.
+ • 
+Manage designated intranet pages, internal content hubs and tools, ensuring content remains current, accurate and easy to access.
+
+Agency & Stakeholder Management
+
+ • 
+Manage creative/content agencies from briefing through final delivery, ensuring quality, timelines and brand consistency.
+ • 
+Partner with marketing, division, product and technical teams/SMEs to gather inputs, content and assets.
+ • 
+Coordinate stakeholder requirements, reviews and approvals.
+
+Analytics & Lead Generation
+
+ • 
+Analyze website, SEO, blog, email, paid and social performance using Excel and digital analytics tools.
+ • 
+Translate performance data into actionable recommendations on topics, formats, channels and content investments.
+ • 
+Optimize content to improve traffic, engagement, conversions and leads.
+ • 
+Work with performance marketing teams to improve campaign content and landing-page effectiveness.
+
+Digital & Social Execution
+
+ • 
+Support social campaign execution through Sprinklr and relevant native platforms, including setup, scheduling and publishing.
+ • 
+Provide execution support for other digital marketing initiatives based on evolving business priorities.
+
+=== JD ===
+JD 13: JOb title: Business Analyst-AI Solution & Gen AI About the job
+Position- Business Analyst AI Solution & Gen AI Location- Navi Mumbai (Hybrid) CTC- 24 LPA Fixed+ Benefits Experience- 10+ years
+Mandatory Skills: • Strong Business Analysis experience in enterprise technology projects • Hands-on experience drafting requirementsfor AI/ML/GenAI initiatives • Understanding of Generative AI, LLMs, Prompt Engineering, RAG, and AI Agents • Requirement gathering, business process mapping, and documentation expertise • Stakeholder management and workshop facilitation skills • Experience creating userstories, acceptance criteria, and process workflows • Knowledge of Agile/Scrum methodologies • Tools: Jira, Confluence, Azure DevOps, Miro, Visio, or equivalent
+JD 14: Skills & Know How Must have:
+
+ • 
+Proven experience in a senior technical or functional support role, ideally supporting enterprise or strategic customers.
+ • 
+Strong analytical and problem-solving skills with the ability to diagnose and resolve multifaceted problems.
+ • 
+Excellent communication and stakeholder management skills-able to handle sensitive customer interactions with professionalism and empathy.
+ • 
+Ability to manage multiple high-priority cases simultaneously while maintaining attention to detail.
+ • 
+Proven ability to remain calm and professional under pressure while maintaining ownership and accountability.
+
+Preferred:
+
+ • 
+Experience using CRM and case management systems (e.g., Salesforce, ServiceNow, JIRA).
+ • 
+Technical knowledge of Intacct / ERP systems and customer environments.
+
+Key behaviours
+
+ • 
+Empathetic, proactive, and customer obsessed.
+ • 
+Demonstrates curiosity, ownership, and composure under pressure.
+ • 
+Balances quality and efficiency to deliver excellent customer outcomes.
+ • 
+Collaborative and solution-focused, contributing to team and organisational goals. Technical / professional qualifications
+
+=== JD ===
+JD 15 About the job Innovate in Bengaluru
+This position is based at our on-site office in Bengaluru. Lowe's offers an ultramodern work environment, complete with cutting-edge technology, collaborative workspaces, an on-site gym and clinic, and other perks to enhance your work experience.
+About Lowe’s
+Lowe’s is a FORTUNE® 100 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2024 sales of more than $83 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing, improving community spaces, helping to develop the next generation of skilled trade experts and providing disaster relief to communities in need. For more information, visit Lowes.com.
+About Lowe’s India
+Lowe’s India, the Global Capability Center of Lowe’s Companies Inc., is a hub for driving our technology, business, analytics, and shared services strategy. Based in Bengaluru with over 4,500 associates, it powers innovations across omnichannel retail, AI/ML, enterprise architecture, supply chain, and customer experience. From supporting and launching homegrown solutions to fostering innovation through its Catalyze platform, Lowe’s India plays a pivotal role in transforming home improvement retail while upholding strong commitment to social impact and sustainability. For more information, visit Lowes India
+About The Team
+The Merch Ops Analytics team supports the Assortment Planning function at Lowe’s to assist in item level planning across all Lowe’s stores. The team provides leverages advanced analytics to gather insights and share recommendations to the business in optimizing assortments via SKU Rationalization, Product Line Reviews and other strategic initiatives to ensure that Lowe’s stocks the right product in the right store in the right quantity
+Job Summary
+The principal purpose of the Analyst is to work with the Sr. Analyst/Lead Analyst in delivering impactful data driven analytics support to the Merchant organization. This position is responsible for following analytical best practices, accurately reporting and analyzing results and identifying insights for decision making. The Analyst is responsible for developing an unbiased, holistic view of the key drivers of business performance.
+This is accomplished utilizing advanced tools and methods to leverage customer and transaction data.
+To accomplish this, the Analyst must have decent knowledge of retail analytics. This individual will work with the Sr. Analyst and/or the Lead Analysts to ensure that insights from USHI functional areas and business units (BUs) are understood and incorporated into work products. Additionally, this individual must be able to work effectively within a matrixed organization and demonstrate self-leadership skills
+Roles & Responsibilities
+Core Responsibilities:
+
+ • 
+Understands retail analytics and works effectively under the guidance of a Sr. Analyst and/or Lead Analyst to deliver impactful data driven analytics insights/recommendations
+ • 
+Builds and/or validates recommendations based on sound methodology, data gathering, and data analysis; uses data driven conclusions and decisions to provide solutions
+ • 
+Communicates observations and/or insights to the Sr. Analyst and/or Lead Analysts to help prepare analyses through leveraging multiple data sources
+ • 
+Demonstrate resourcefulness and resilience in the face of change, obstacles, and adversity. This includes adapting to competing demands and shifting priorities. This also includes improving adaptability, pursuing new skills and knowledge, and regularly seeking feedback from others
+
+Years Of Experience
+
+ • 
+1 to 3 years’ experience in Data Analytics
+
+Education Qualification & Certifications (optional)
+Required Minimum Qualifications
+
+ • 
+Bachelor's degree in Engineering, Statistics, Economics or any other Quantitative discipline or MBA/PGDM
+
+Skill Set Required Primary Skills (must Have)
+Primary Skills (must have):Retail Analytics, Power BI, SQL, Advanced Excel, Statistical Analysis, Data Modeling, Data Visualization, Business Insights, Stakeholder Management and Strong Communication & Articulation Skills.
+
+ • 
+Wrangling data using complex SQLs and data extraction processes using data tools like SQL Assistant, DBeaver etc. across databases in GCP, Hadoop
+ • 
+Proficiency in doing data transformations & creating reports using MS Excel
+ • 
+Working with large data sets & generating actionable insights
+ • 
+Demonstrated experience working cross-functionally and with global partners
+ • 
+Experience with other Microsoft Office tools (e.g., Word, PowerPoint)
+
+Secondary Skills (desired)
+
+ • 
+1 year experience in Retail category analytics working directly with merchants
+ • 
+Experience with business intelligence and reporting tools (e.g., Power BI, MicroStrategy, Tableau etc.)
+ • 
+Experience working with Big data & data transformation tools such as Python, SAS, R etc.
+
+Lowe's is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.
+Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.
+
+=== JD ===
+JD: 16 Message About the job
+Company Description
+Clickeon is a AI assisted - digital performance marketing agency.
+Role Description
+This full-time remote role is for an AI Marketing Automation Expert who will design, implement, and optimize AI-driven marketing automation workflows for Clickeon and their clients.
+Responsibilities include collaborating with marketing and sales teams. Developing marketing automations to support both B2C and outreach automations used for B2B
+Projects will cover:
+
+ 1 
+Socials
+ 2 
+Content & SEO
+ 3 
+Paid Media
+ 4 
+Video and Creative Design
+ 5 
+GTM
+
+Core Job Requirements
+
+ • 
+Track record of building successful marketing automations such as Content, SEO, Outreach, Production, Socials.
+ • 
+No-Code Orchestration: Proven experience building multi-step automation workflows using Zapier, Make, or n8n or AI alternatives
+ • 
+AI Tool Integration: Hands-on experience integrating LLMs (e.g., OpenAI, Claude) into marketing workflows for content generation and lead sorting.
+ • 
+Prompt Engineering: Ability to write and iterate complex, structured prompts to ensure AI outputs match brand voice guidelines.
+ • 
+HUGE PLUS: experience with gohighlevel
+
+=== JD ===
+JD: 17 Comapny : HCL Tech JOb Title: AI Solution Specialist: Marketing Manager About the job
+About the Role We are hiring a Manager for the Ecosystem motion to manage Anthropic. This marketing specialist will own both internal and external channels, as well as amplification and adoption for the Anthropic ecosystem. It will report to the Cluster Head of Ecosystem Marketing and work closely with the Anthropic BU's India team on a dotted-line basis. MBA preferred with 12+ years of experience.
+What You'll Do
+
+ • 
+Leadership & Direction: work with a team of marketers in India and the US; be the bridge between AI Ecosystem marketing and other corporate marketing functions (brand, digital, web, external/internal communications); liaise with external agencies and partners
+ • 
+Strategy & Research: develop marketing strategy through research and build hypotheses for marketing-driven value creation for the Anthropic Ecosystem
+ • 
+Marketing Plan Ownership: create, manage, and execute the marketing plan end-to-end
+ • 
+Strategic Programs: develop and execute one-of-a-kind marketing programs across business units to scale brand awareness and salience globally
+ • 
+Digital Marketing: use brand and tech levers to create buzz across digital channels; build and execute a social media strategy that delivers business results
+ • 
+Content Marketing: deliver a world-class editorial calendar aligned with each brand's top strategic messages using innovative content formats
+ • 
+Be the full-funnel owner of AI Ecosystem marketing: digital, BTL, direct, strategy, planning, ROI-driven marketing, PR, AR, comms, thought leadership, content, creative, analytics and reporting
+ • 
+Internal + external amplification and adoption across HCLTech and HCLSoftware
+
+Qualifications & Experience
+
+ • 
+Educational level: MBA
+ • 
+Minimum 12+ years of experience
+
+Skills Required
+
+ • 
+Understand the importance and the nuances of the AI business landscape and the technologies that are in play and upcoming
+ • 
+Knowledge of AI technologies, LLMs, models, Claude Code, Codex, and the market is a strategic advantage
+ • 
+Excellent written and verbal skills; ability to tailor content to different audiences and media outlets, and edit content written by others for message and clarity
+ • 
+An 'A-level' performer with the drive to innovate and break norms, with a solid thought process and obsession for results/business value
+ • 
+Excellent analytical skills with a strong sense of structure and logic
+ • 
+Strong understanding of content marketing principles and how content drives business goals
+ • 
+Demonstrated experience creating content that effectively integrates copy with visual elements
+ • 
+Strategic thinker with the ability to plan content initiatives and campaigns
+ • 
+Ability to work independently and collaboratively with cross-functional teams
+ • 
+Strong project management and organizational skills
+
+Key Performance Parameters
+
+ 1 
+Marketing plan: Anthropic Ecosystem marketing plan created and executed as per agreed timelines
+ 2 
+Brand awareness: Measurable lift in brand salience across digital channels
+ 3 
+Lead generation: Content-driven lead generation with tracked pipeline contribution
+ 4 
+Content calendar: World-class editorial calendar delivered, aligned to strategic messages
+ 5 
+Amplification: Internal + external amplification campaigns with measurable adoption uptake
+ 6 
+Cross-functional bridge: Effective integration between AI Ecosystem and corporate marketing functions
+
+You will be part of a close-knit, highly passionate team working in one of the most talked-about areas in the technology industry today. You will have the unique opportunity to do your best work.
+
+=== JD ===
+JD 18: Product Manager Vice President - Go to Market Strategy & Execution New York, NY, United States and 1 more Apply Now Job Information
+
+ • 
+Job Identification210795892
+ • 
+Job CategoryProduct Management
+ • 
+Business UnitCorporate Sector
+ • 
+Posting Date07/10/2026, 09:32 am
+ • 
+Locations 277 Park Ave, New York, NY, 10172, US 575 Washington Blvd, Jersey City, NJ, 07310, US
+ • 
+Job ScheduleFull time
+ • 
+Base Pay/SalaryNew York,NY $133,000.00-$215,000.00; Jersey City,NJ $133,000.00-$215,000.00
+
+Job Description You enjoy shaping the future of product innovation as a core leader, driving value for customers, guiding successful launches, and exceeding expectations. Join our dynamic team and make a meaningful impact by delivering high-quality products that resonate with clients. Drive AI/ML & Data Platform adoption across business units through successful product launches narratives, stakeholder engagement, and lighthouse customer wins. The GTM Strategy & Execution Vice President is accountable for driving sustained, high-touch engagement with business units across JPMorganChase to accelerate the AI/ML & Data Platform adoption - from initial awareness through to client-facing solution development. This Vice President operates by building relationships with product leaders and within user business group, understanding their problems, crafting tailored narratives, and converting skepticism into active platform adoption.
+As a Product Manager in Product Manager in Chief Data & Analytics Office Client Engagement team, you are an integral part of the team that innovates new product offerings and leads the end-to-end product life cycle. As a core leader, you are responsible for acting as the voice of the customer and developing profitable products that provide customer value. Utilizing your deep understanding of how to get a product off the ground, you guide the successful launch of products, gather crucial feedback, and ensure top-tier client experiences. With a strong commitment to scalability, resiliency, and stability, you collaborate closely with cross-functional teams to deliver high-quality products that exceed customer expectations. You will work in close partnership with Product Management, Engineering, Product Marketing, Customer Success, Business Stakeholders, and other Technology leaders and teams across the client facing lines of business.
+The role bridges the gap between platform awareness and actual utilization by conducting interviews, validating personas, creating “so what” narratives, managing content across multiple digital channels, building and execution of product & platform roadshows, and developing lighthouse customers (key success cases). This work cannot be automated or scaled through content alone - it requires a person who can walk into a room of skeptical stakeholders and leave with a commitment to explore. Success is measured by the number of business units progressing through the adoption journey by driving Go-to-Market and Product Marketing initiatives. Success is evidenced by a measurable increase in business units progressing through the platform adoption journey - from awareness to engaged to usage on the platform, with business unit users remaining engaged. Outputs (Intelligence Briefs, persona narratives, use-case success journeys, product playbooks) are consistently high-quality, actionable, and adopted by the broader teams for scaled engagement. Lighthouse customer stories and proof points feed back into GTM narrative, strengthening platform credibility and accelerating subsequent adoption cycles, stakeholder relationships deepen over time, reflected in repeat engagement requests and executive sponsorship within target lines of business.
+Job responsibilities
+
+ • 
+Develops a product strategy and product vision that delivers value to customers
+ • 
+Manages discovery efforts and market research to uncover customer solutions and integrate them into the product roadmap
+ • 
+Owns, maintains, and develops a product backlog that enables development to support the overall strategic roadmap and value proposition
+ • 
+Builds the framework and tracks the product's key success metrics such as cost, feature and functionality, risk posture, and reliability
+ • 
+Conduct structured audience and qualitative research within target business units - including stakeholder interviews, gap identification, and persona validation & definition - synthesizing findings into actionable Intelligence Briefs and one-page narratives that inform engagement strategy
+ • 
+Translate complex technical capabilities spanning data mesh, model serving, knowledge bases, agentic AI, and governance infrastructure - into compelling, outcome-anchored narratives tailored to diverse audiences including business leaders, data analysts, data scientists, AI and Gen-AI focused engineers, and Chief Data Officers
+ • 
+Author persona-specific message variants, line of business narratives, use-case playbooks, and objection-handling content, writing clearly and persuasively for audiences ranging from (Chief Data & Analytics Office ) CDAOs to data engineers within the same engagement cycle. Map decision-makers, influencers, users, and blockers within each target business unit and design tailored engagement strategies that build trust and move stakeholders from awareness to commitment over time
+ • 
+Lead and facilitate lunch-and-learns, roadshows, executive briefings, and stakeholder meetings - adjusting depth, tone, and format based on the audience, from 50-minute informal sessions with analysts to 25-minute executive briefings with senior Managing Directors. Coordinate key initiatives across the product team, customer success, and business users to keep execution on track and to maintain engagement throughout.
+ • 
+Develop lighthouse customers by identifying, nurturing, and documenting early adopters whose outcomes serve as proof points and reference cases for broader GTM storytelling and credibility-building , partner with product and engineering leaders and technical leads to extract business implications tied to technical product and platform capabilities, ensuring product narratives remain accurate, current, and grounded in reality
+ • 
+Operate in close partnership with Product Management, Engineering, Product Marketing, Customer Success, Business Stakeholders, and other Technology leaders and teams to align messaging and execution
+ • 
+Drive measurable progression of business units through the adoption journey - from awareness to engaged to usage on the platform - while keeping business unit users continuously engaged Feed lighthouse customer stories and proof points back into GTM narrative to strengthen platform credibility, accelerate subsequent adoption cycles, and deepen stakeholder relationships reflected in repeat engagement requests and executive sponsorship within target lines of business
+
+Required qualifications, capabilities, and skills
+
+ • 
+5+ years of experience or equivalent expertise in product management or a relevant domain area
+ • 
+Advanced knowledge of the product development life cycle, design, and data analytics
+ • 
+Proven ability to lead product life cycle activities including discovery, ideation, strategic development, requirements definition, and value management
+ • 
+5+ years of career experience in strategy consulting, product management, product marketing management, solutions consulting, or technology-focused strategy roles
+ • 
+Background ideally within leading consulting firms, financial services, or large-scale technology organizations
+ • 
+Demonstrated success supporting B2B and enterprise GTM organizations, deep experience in GTM Strategy and Execution
+ • 
+Experience leading or contributing to adoption or change management programs where success required sustained engagement, not a single campaign
+ • 
+Proven ability to navigate multi-stakeholder environments where decision-making authority is distributed and influence matters more than hierarchy
+ • 
+Skilled at conducting qualitative research and synthesizing findings into concise written outputs, skilled at authoring persuasive narratives for diverse audiences
+ • 
+Confident presentation skills across settings and seniority levels
+ • 
+Project management discipline to keep initiatives and programs on track in ambiguous, fast-moving environments
+
+Preferred qualifications, capabilities, and skills
+
+ • 
+Demonstrated prior experience working in a highly matrixed, complex organization
+ • 
+Experience marketing or positioning a platform or infrastructure product to internal or enterprise audiences, with a focus on B2B rather than consumer/B2C contexts
+ • 
+Familiarity with data and AI platform ecosystems, including concepts such as data mesh, model serving, and governance infrastructure - not at an engineering level, but with sufficient fluency to extract business implications from technical discussions; technical acumen, fluency, and experience will be key to succeeding in the role
+ • 
+Experience building customer advocacy pipelines, including case studies, reference development, and outcome-based proof points, demonstrated comfort operating in large, matrixed organizations with complex stakeholder landscapes
+ • 
+Strong business translation ability - converting complex technical platform capabilities into language that resonates with business leaders, analysts, and technical decision-makers alike, always anchoring to business outcomes rather than platform features
+ • 
+Deep capability in qualitative research and consultative discovery, paired with narrative craft that produces clear, persuasive, and concise communications; excels at stakeholder mapping and relationship-building in environments where trust must be earned over time
+ • 
+Combines confident presentation and facilitation skills with the operational discipline of program management, maintaining momentum even when engagement faces friction
+
+=== JD ===
+JD 19: Product Growth & Go-to-Market-Payments Data & Analytics-Vice President New York, NY, United States Apply Now Job Information
+
+ • 
+Job Identification210777278
+ • 
+Job CategoryProduct Management
+ • 
+Business UnitCommercial & Investment Bank
+ • 
+Posting Date04/09/2026, 04:13 am
+ • 
+Locations 1230 Avenue Of The Americas, New York, NY, 10020, US
+ • 
+Job ScheduleFull time
+ • 
+Base Pay/SalaryNew York,NY $133,000.00-$215,000.00
+
+Job Description You enjoy being the face of an award-winning product, translating client needs into growth, and turning market engagement into measurable commercial impact. Join our dynamic team and make a meaningful impact by scaling adoption of a solution that resonates with clients.
+As a Product Growth & GTM Manager in the Payments Data & Analytics team, you are the external voice and market-facing leader for Cash Flow Intelligence (CFI), our AI-powered cash forecasting and analytics solution within J.P. Morgan Access. You own go-to-market strategy and its execution, lead a team that engages clients through demos, seminars, and meetings, and serve as the critical translator between client demand and the product roadmap. You collaborate closely with cross-functional teams - including sales, product, UI/UX, data science, and engineering - to grow adoption, deepen client relationships, and turn client intelligence into product value.
+Job responsibilities
+
+ • 
+Defines and owns the end-to-end go-to-market strategy for CFI, aligning positioning, segmentation, messaging, and launch plans to the product vision and commercial objectives
+ • 
+Serves as the external voice and face of CFI, leading executive-level client engagements, demos, seminars, and conferences and delegating and coaching team members to represent the product as the field motion scales
+ • 
+Gathers, synthesizes, and channels client intelligence back to product colleagues, translating client asks and market signals into clear product requirements and roadmap priorities
+ • 
+Partners with sales teams to drive commercialization and monetization, monitoring adoption, pipeline, and removing barriers to growth
+ • 
+Leads and develops a team, setting standards for client engagement, demo excellence, and repeatable go-to-market execution
+ • 
+Builds and tracks growth success metrics such as adoption, client engagement quality, win rates, and commercialization outcomes, and communicates rationale and results to senior leadership
+
+Required qualifications, capabilities, and skills
+
+ • 
+5+ years of experience or equivalent expertise in product management, go-to-market, product growth, or a relevant client-facing domain area
+ • 
+Exceptional public speaking and executive presence, with a proven ability to lead demos, seminars, and senior client conversations
+ • 
+Demonstrated live-demo fluency and the "translator" ability to convert client asks into clear, prioritized product features
+ • 
+Proven ability to define and execute go-to-market strategy and drive commercial outcomes
+ • 
+People leadership experience, with a track record of building and developing high-performing, client-facing teams
+ • 
+Experience partnering with sales/commercial teams to grow adoption, pipeline, and monetization
+ • 
+Willingness to travel approximately 20% of the time for client engagements, seminars, and conferences
+
+Preferred qualifications, capabilities, and skills
+
+ • 
+Demonstrated prior experience working in a highly matrixed, complex organization
+ • 
+Familiarity with treasury, cash management, or B2B payments, and how finance teams evaluate and adopt analytics solutions
+
+=== JD ===
+JD 20: AI Product Manager About the job
+Overall, Job Description
+
+ • 
+AI Product Strategy & Roadmap: Define and own the product roadmap for AI and GenAI solutions. Identify high-value AI use cases aligned with business objectives. Create business cases, benefit realization frameworks, and adoption plans. Prioritize opportunities based on value, feasibility, risk, and strategic alignment. Drive AI product vision from concept to enterprise-scale deployment
+ • 
+Business Management : Partner with business stakeholders to understand pain points and opportunities. Translate business requirements into product features, user stories, and AI capabilities. Conduct workshops, discovery sessions, and design-thinking exercises. Build stakeholder alignment across business, technology, risk, and operations teams.
+ • 
+AI Solution Design - Work closely with AI Engineers, Data Scientists, Architects, and Platform teams. Define AI workflows, user journeys, guardrails, governance requirements, and success metrics. Evaluate AI models, copilots, agents, intelligent automation, and RAG-based solutions. Ensure solutions are practical, scalable, explainable, and aligned to enterprise standards.
+ • 
+AI Governance & Risk - Collaborate with Risk, Compliance, Legal, Information Security, and Model Risk teams. Ensure compliance with enterprise AI governance frameworks. Define controls for responsible AI, privacy, explainability, auditability, and model monitoring. Assess AI use cases against regulatory and policy requirements.
+ • 
+Product Performance & Adoption - Define KPIs and outcome-based success measures. Monitor product usage, adoption, user satisfaction, and business impact. Drive continuous improvement through experimentation and feedback loops. Develop executive dashboards and performance reporting.
+ • 
+Vendor & Ecosystem Management - Evaluate AI vendors, platforms, and solution providers. Conduct proof-of-concepts and product assessments. Manage vendor relationships and implementation partners. Stay current with developments in AI, GenAI, agentic systems, and emerging technologies.
+
+EDUCATION Essential requirements: Bachelor's degree in Engineering, Computer Science, Information Technology, Data Science, or related discipline. Preferred: MBA or equivalent business qualification preferred.
+Essential requirements: Product Management
+
+ • 
+Product strategy and roadmap development
+ • 
+Product lifecycle management
+ • 
+Agile and Scrum methodologies
+ • 
+Business case development
+ • 
+Requirements management
+ • 
+Stakeholder management
+ • 
+User experience and design thinking
+
+AI & Technology
+
+ • 
+Generative AI and Large Language Models (LLMs)
+ • 
+Retrieval Augmented Generation (RAG)
+ • 
+AI Agents and Agentic Workflows
+ • 
+Machine Learning fundamentals
+ • 
+Prompt Engineering concepts
+ • 
+AI Platforms (Azure AI Foundry, AWS Bedrock, Databricks, OpenAI, Anthropic, Google Vertex AI)
+ • 
+API-based architectures and integrations
+ • 
+Data platforms and analytics ecosystems
+
+Governance & Risk
+
+ • 
+Responsible AI principles
+ • 
+AI risk and control frameworks
+ • 
+Data privacy and security concepts
+ • 
+Model monitoring and observability
+ • 
+Regulatory and compliance awareness
+
+Preferred:
+
+ • 
+Experience with AI copilots and enterprise knowledge assistants.
+ • 
+Understanding of MLOps, LLMOps, and AI Platform Engineering.
+ • 
+Familiarity with AI gateway technologies and model management platforms.
+ • 
+Experience building AI products in cloud environments.
+ • 
+Knowledge of banking products and processes.
+ • 
+Exposure to BIAN, enterprise architecture or digital transformation initiatives.
+
+=== JD ===
+JD 21: About the job Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Gurugram, Haryana, India; Bengaluru, Karnataka, India.Minimum qualifications:
+
+ • 
+Bachelor's degree or equivalent practical experience.
+ • 
+6 years of experience working within tech startups or digital-native organizations.
+ • 
+Experience engaging with, and presenting to, technical stakeholders and executive leaders.
+
+Preferred qualifications:
+
+ • 
+Experience in developing financial services or telecommunication agents using frameworks such as LangGraph, Semantic Kernel, or the Google AI Agent Development Kit (ADK).
+ • 
+Experience with cloud technologies including SaaS applications, iPaaS, business automation solutions, Cloud infrastructure, Agentic AI, and cloud networking.
+ • 
+Knowledge of integration patterns using OpenAPI and Model Context Protocol (MCP) to connect AI agents with business systems and Application Programming Interface (API) Gateways.
+ • 
+Knowledge of observability constructs including distributed tracing, logging, and audit logging for AI applications.
+
+About The Job
+When leading companies choose Google Cloud, it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You listen and deliver what is most helpful for the customer. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.
+Leading with the future, the AI GTM Information Technology Enabled Servives (ITES) Google Cloud team are trusted AI advisors, expanding across Google to deliver transformative customer experiences that shape the next generation of their business. Partnering to provide AI expertise, thought leadership, and industry best practices, we revolutionize customer outcomes.
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+Responsibilities
+
+ • 
+Drive the technical solution for complex workloads within AI product areas to ensure rapid and successful adoption, primarily supporting the business cycle from technical evaluation through customer ramp.
+ • 
+Combine business strategies and direct development and prototyping to provide functional, customer-tailored solutions that secure buy-in from customer domain experts.
+ • 
+Provide technical consultation to customers, acting as a technical advisor and building customer relationships.
+ • 
+Leverage learnings from customer engagements to contribute to reusable solutions and assets with the Go-to-Market team. Travel to customer sites, conferences, and other related events as required, acting as a public advocate for Google Cloud.
+ • 
+Work within product and engineering management systems to document, prioritize and drive resolution of customer feature requests and issues.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+
+=== JD ===
+JD: 22 Job description
+Job Title: AI/ML Engineer (Generative AI Specialist) Location: [Bengaluru] Experience: Relevant 37 Years
+Job Description: We are seeking a skilled and passionate AI/ML Engineer with expertise in Generative AI (Gen AI) to join our dynamic team. The ideal candidate will have hands-on experience working with large language models (LLMs), frameworks like LangChain and LangGraph, and advanced knowledge of RAG (Retrieval-Augmented Generation) and AI agents. The role demands strong programming skills, problem-solving abilities, and the ability to contribute to cutting-edge AI projects.
+Key Responsibilities:
+
+ • 
+Design, develop, and implement solutions using Generative AI technologies and frameworks such as LangChain and LangGraph,CrewAI
+ • 
+Work on projects involving large language models (LLMs), including both Open Source LLMs and Enterprise LLMs like OpenAI.
+ • 
+Develop, fine-tune, and deploy LLMs for NLP tasks such as text summarization, translation, question answering, etc.
+ • 
+Build and integrate RAG pipelines and AI agents for production-ready solutions.
+ • 
+Collaborate with cross-functional teams to deliver scalable AI-driven applications.
+ • 
+Manage and version code effectively using Git.
+ • 
+Leverage NoSQL databases for unstructured data handling.
+ • 
+Stay updated with advancements in AI/ML technologies and propose innovative solutions.
+
+Required Skills:
+
+ • 
+Minimum 6 months of hands-on experience with Generative AI, LangChain, and LangGraph.
+ • 
+Minimum 2 years of experience in Python programming for AI/ML applications.
+ • 
+Working with large language models and NLP pipelines.
+ • 
+NoSQL databases (e.g., MongoDB, Cassandra).
+ • 
+Practical knowledge of Retrieval-Augmented Generation (RAG) and AI agents.
+ • 
+Experience with both open-source and enterprise-grade LLMs.
+ • 
+Proficiency in software development, debugging, and testing.
+ • 
+Strong communication skills to convey complex ideas effectively.
+
+Optional/Preferred Skills:
+
+ • 
+Knowledge of Machine Learning and Deep Learning frameworks like TensorFlow, PyTorch.
+ • 
+Experience with Cloud Platforms (Azure, AWS, or SAP).
+ • 
+Exposure to DevOps practices and CI/CD pipelines.
+ • 
+Familiarity with cloud-based AI/ML solutions and MLOps workflows
+
+Role: IT Operations Management Industry Type: IT Services & Consulting Department: IT & Information Security Employment Type: Full Time, Permanent Role Category: IT Infrastructure Services Education UG: B.Tech / B.E. in Any Specialization Key Skills Skills highlighted with ‘‘ are preferred keyskills
+
+=== JD ===
+JD 23. Lead Data Scientist- Gen AI Job description
+Fractal is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite is the one who empowers imagination with intelligence. Fractal has been featured as a Great Place to Work by The Economic Times in partnership with the Great Place to Work Institute and recognized as a Cool Vendor’ and a ‘Vendor to Watch’ by Gartner.
+You will lead end-to-end AI product development from data ingestion and model building to deployment, monitoring, and continual improvement—bringing deep expertise in text processing (NLU, SLU), RAG pipelines, and LLMs. You will also compare different models and select the most suitable ones for each solution, ensuring optimal performance and scalability.
+What You’ll Do (Responsibilities)
+Design & Build AI Solutions
+
+ • 
+Develop AI-driven solutions tailored to healthcare business challenges.
+ • 
+Compare and evaluate multiple models and architectures to select the best fit for each use case.
+ • 
+Quantize and optimize GenAI/LLM models for performance, cost, and accuracy.
+ • 
+Implement Agentic AI frameworks to build autonomous, multi-step workflows for healthcare applications.
+ • 
+Lead large, complex proof-of-concepts spanning on-premises and cloud environments for healthcare use cases.
+
+End-to-End Product Development
+
+ • 
+Own the full lifecycle: data ingestion & transformation, feature engineering, analysis & modeling, deployment, testing, performance monitoring, observability, and documentation.
+ • 
+Build robust RAG pipelines with vector databases for high-recall retrieval and LLM-driven generation.
+ • 
+Establish, document, and evangelize best practices for machine learning, deep learning, and GenAI development.
+
+LLM Excellence
+
+ • 
+Design, implement, and optimize prompts (including In-Context Learning) to improve reliability and task fidelity.
+ • 
+Integrate Langfuse and LangSmith for LLM observability, tracing, evaluation, and continuous improvement of model behavior in production.
+
+Technical Leadership
+
+ • 
+Prioritize and drive technology workstreams for ML, NLP, and GenAI products.
+ • 
+Mentor and train scientists/engineers on complex AI/ML topics and code quality standards.
+ • 
+Collaborate with cross-functional stakeholders to translate healthcare business needs into measurable AI outcomes.
+
+Operational Excellence
+
+ • 
+Implement monitoring, testing, and maintenance practices to keep models robust, fair, and compliant.
+ • 
+Manage the lifecycle and governance for a suite of NLP/ML models supporting multiple products.
+
+What You’ll Bring (Qualifications)
+
+ • 
+7+ years applying computational algorithms and statistical methods to structured and unstructured data.
+ • 
+3+ years with AI Cloud services (e.g., Azure ML, Databricks, Azure OpenAI), or equivalent on GCP/AWS.
+ • 
+1+ year hands-on with LLMs, RAG (Retrieval-Augmented Generation), and Agentic AI frameworks.
+ • 
+Significant experience deploying scalable solutions end-to-end—from problem definition to successful product launch.
+ • 
+Practical experience in model performance tuning (latency, throughput, accuracy) including quantization and optimization.
+ • 
+Strong Python development; expertise in machine learning and deep learning with TensorFlow or PyTorch (including distributed training).
+ • 
+Deep subject-matter expertise in text processing, NLU, and SLU.
+ • 
+Proven ability to design effective prompts and optimize them for task performance; experience applying ICL.
+ • 
+Data engineering fundamentals: ingestion, transformation, and management.
+ • 
+Mandatory: Hands-on experience with Agentic AI frameworks such as Microsoft AutoGen, LangChain, LangGraph, and Semantic Kernel.
+ • 
+Excellent communication, writing, and presentation skills.
+ • 
+Ability to decompose complex problems into clear, implementable solutions and lead cross-functional delivery.
+
+Tools & Technologies
+
+ • 
+Programming & DL: Python, TensorFlow, PyTorch, Hugging Face Transformers
+ • 
+LLM Observability & Evaluation: Langfuse, LangSmith
+ • 
+LLM & Orchestration: Azure OpenAI, LangChain, LangGraph, Semantic Kernel, Microsoft AutoGen
+ • 
+RAG & Vector DBs: Azure AI Search, FAISS, Pinecone, Weaviate
+ • 
+Cloud & Data: Azure ML, Databricks, Azure AI Foundry, Azure Data Factory (plus equivalents on GCP/AWS)
+ • 
+Infra & Ops: Docker, Kubernetes, CI/CD, Terraform (preferred)
+ • 
+Agentic AI frameworks: ADK, Autogen, LangChain, LangGraph
+
+Role: Data Scientist Industry Type: IT Services & Consulting Department: Data Science & Analytics Employment Type: Full Time, Permanent Role Category: Data Science & Machine Learning Education UG: Any Graduate Key Skills Skills highlighted with ‘‘ are preferred keyskills generative aiNatural Language Processing Data ScienceTensorflowNeural NetworksBertMachine LearningDeep LearningPython
+
+=== JD ===
+JD 24: AI Agent Developer - Senior Associate PwC 3.3 14.2K Reviews 4 - 8 years 10-20 Lacs P.A. Hybrid Hyderabad, Gurugram, Bengaluru Posted: Few hours agoOpenings: 1Applicants: 35 Continue with Google AI Agent Developer - Senior Associate PwC 3.3 14.2K Reviews Apply Job description Role & responsibilities
+Expert in developing and optimizing AI agents using Python, seamlessly integrating with cutting-edge APIs like OpenAI, Claude, and Azure AI Foundry to deliver advanced NLP solutions.
+
+ • 
+Proven ability to design and implement Retrieval-Augmented Generation (RAG) workflows and apply sophisticated Prompt Engineering techniques that significantly enhance agent accuracy and contextual relevance.
+ • 
+Skilled in building scalable, collaborative AI ecosystems using Multi-Agent Frameworks, LangGraph, LangChain, and AutoGen to orchestrate complex, multi-agent workflows efficiently.
+ • 
+Experienced in developing and maintaining robust REST APIs that enable smooth integration of AI agents with diverse cloud platforms and third-party systems.
+ • 
+Strong background in implementing comprehensive observability and monitoring frameworks to ensure high performance, reliability, and maintainability of AI systems in cloud environments.
+ • 
+Proficient in managing data with SQL databases and leveraging tools like Agent Core and GitHub for version control, collaboration, and accelerating the development of AI Code Assistants.
+
+Role: Data Science & Analytics - Other Industry Type: Financial Services Department: Data Science & Analytics Employment Type: Full Time, Permanent Role Category: Data Science & Analytics - Other Education UG: B.C.A. in Any Specialization, B.Tech / B.E. in Any Specialization, B.Sc in Any Specialization Key Skills Skills highlighted with ‘‘ are preferred keyskills agentic AI GenAIMulti-agentRAGLLM
+
